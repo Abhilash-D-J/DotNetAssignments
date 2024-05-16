@@ -1,0 +1,14 @@
+D:\MS.NET\Assignments\Assi1Que3\bin\Debug\net6.0\Assi1Que3.exe
+D:\MS.NET\Assignments\Assi1Que3\bin\Debug\net6.0\Assi1Que3.deps.json
+D:\MS.NET\Assignments\Assi1Que3\bin\Debug\net6.0\Assi1Que3.runtimeconfig.json
+D:\MS.NET\Assignments\Assi1Que3\bin\Debug\net6.0\Assi1Que3.dll
+D:\MS.NET\Assignments\Assi1Que3\bin\Debug\net6.0\Assi1Que3.pdb
+D:\MS.NET\Assignments\Assi1Que3\obj\Debug\net6.0\Assi1Que3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MS.NET\Assignments\Assi1Que3\obj\Debug\net6.0\Assi1Que3.AssemblyInfoInputs.cache
+D:\MS.NET\Assignments\Assi1Que3\obj\Debug\net6.0\Assi1Que3.AssemblyInfo.cs
+D:\MS.NET\Assignments\Assi1Que3\obj\Debug\net6.0\Assi1Que3.csproj.CoreCompileInputs.cache
+D:\MS.NET\Assignments\Assi1Que3\obj\Debug\net6.0\Assi1Que3.dll
+D:\MS.NET\Assignments\Assi1Que3\obj\Debug\net6.0\refint\Assi1Que3.dll
+D:\MS.NET\Assignments\Assi1Que3\obj\Debug\net6.0\Assi1Que3.pdb
+D:\MS.NET\Assignments\Assi1Que3\obj\Debug\net6.0\Assi1Que3.genruntimeconfig.cache
+D:\MS.NET\Assignments\Assi1Que3\obj\Debug\net6.0\ref\Assi1Que3.dll
