@@ -1,0 +1,15 @@
+D:\MS.NET\Assignments\Assi2Que2\bin\Debug\net6.0\Assi2Que2.exe
+D:\MS.NET\Assignments\Assi2Que2\bin\Debug\net6.0\Assi2Que2.deps.json
+D:\MS.NET\Assignments\Assi2Que2\bin\Debug\net6.0\Assi2Que2.runtimeconfig.json
+D:\MS.NET\Assignments\Assi2Que2\bin\Debug\net6.0\Assi2Que2.dll
+D:\MS.NET\Assignments\Assi2Que2\bin\Debug\net6.0\Assi2Que2.pdb
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\Assi2Que2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\Assi2Que2.AssemblyInfoInputs.cache
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\Assi2Que2.AssemblyInfo.cs
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\Assi2Que2.csproj.CoreCompileInputs.cache
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\Assi2Que2.sourcelink.json
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\Assi2Que2.dll
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\refint\Assi2Que2.dll
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\Assi2Que2.pdb
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\Assi2Que2.genruntimeconfig.cache
+D:\MS.NET\Assignments\Assi2Que2\obj\Debug\net6.0\ref\Assi2Que2.dll
