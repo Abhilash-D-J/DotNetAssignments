@@ -1,0 +1,6 @@
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment6\EmployeeLibSharedAssembly\bin\Debug\EmployeeLibSharedAssembly.dll
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment6\EmployeeLibSharedAssembly\bin\Debug\EmployeeLibSharedAssembly.pdb
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment6\EmployeeLibSharedAssembly\obj\Debug\EmployeeLibSharedAssembly.csproj.AssemblyReference.cache
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment6\EmployeeLibSharedAssembly\obj\Debug\EmployeeLibSharedAssembly.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment6\EmployeeLibSharedAssembly\obj\Debug\EmployeeLibSharedAssembly.dll
+C:\Users\sunbeam\Desktop\Dac Assignments\Dotnet_Assignments\Assignment6\EmployeeLibSharedAssembly\obj\Debug\EmployeeLibSharedAssembly.pdb
